@@ -30,7 +30,8 @@
    - **Name**: `REGISTRY_TOKEN` *(chính xác tên này)*.
    - **Secret**: Dán token bạn vừa sao chép ở Bước 1.
 5. Bấm **Add secret**.
-6. **Chụp ảnh màn hình**: Chụp lại màn hình trang danh sách Repository Secrets hiển thị biến `REGISTRY_TOKEN` vừa tạo để làm sản phẩm nộp bài.
+
+![alt text](image.png)
 
 ---
 
